@@ -24,6 +24,6 @@
 
 ## Contact
 
-- Website [your-website.com](https://kulnois.com)
-- GitHub [@your-username](https://github.com/kulnois)
-- Twitter [@your-twitter](https://twitter.com/kulnois)
+- Website [kulnois.com](https://kulnois.com)
+- GitHub [@kulnois](https://github.com/kulnois)
+- Twitter [@kulnois](https://twitter.com/kulnois)
