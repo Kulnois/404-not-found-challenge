@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://kulnois.github.io/404-not-found">
+    <a href="https://kulnois.github.io/404-not-found-challenge">
       Demo
     </a>
     <span> | </span>
-    <a href="https://kulnois.github.io/404-not-found">
+    <a href="https://kulnois.github.io/404-not-found-challenge">
       Solution
     </a>
     <span> | </span>
