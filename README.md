@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404-not-found</h1>
 
 <div align="center">
@@ -21,6 +19,10 @@
     </a>
   </h3>
 </div>
+
+![Web](screenshots/web-not-found-page.PNG)
+
+![Mobile](screenshots/mobile-not-found-page.PNG)
 
 ## Contact
 
